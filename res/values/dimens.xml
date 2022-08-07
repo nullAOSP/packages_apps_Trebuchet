@@ -485,4 +485,7 @@
     <dimen name="ps_button_height">36dp</dimen>
     <dimen name="ps_button_width">36dp</dimen>
     <dimen name="ps_lock_button_width">89dp</dimen>
+    
+    <!-- For Themed icon support -->
+    <dimen name="theme_icon_size">24dp</dimen>
 </resources>
